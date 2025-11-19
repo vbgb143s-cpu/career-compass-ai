@@ -1,0 +1,4 @@
+project_id = "lseqgejlcywkclabwiri"
+
+[functions.career-guide]
+verify_jwt = false
